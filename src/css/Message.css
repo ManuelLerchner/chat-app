@@ -1,0 +1,18 @@
+.MessageBox {
+    word-wrap: break-word;
+    background: white;
+}
+
+.Message {
+    font-size: 18px;
+}
+
+.Sender {
+    float: right;
+    border-radius: 15px 5px 5px 15px;
+}
+
+.Receiver {
+    float: left;
+    border-radius: 5px 15px 15px 5px;
+}
